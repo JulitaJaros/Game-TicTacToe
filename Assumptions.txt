@@ -1,0 +1,15 @@
+1.Założenia:
+a) Możliwość założenia konta
+b) Na starcie panel logowania / rejestracji
+c) Możliwa gra bez rejestracji (z komputerem - 3 poziomy trudności)
+d) Tabela najlepszych wyników (widoczna dla użytkownika zalogowanego)
+e) Baza graczy
+f) Rozgrywka z komputerem (3 poziomy trudności)
+g) Rozgrywka z innym użytkownikiem niezalogowanym
+h) Wybór X / O
+i) Zmiana hasła użytkownika zalogowanego
+
+
+2.Wzorce projektowe:
+  Wzorzec DAO
+  Wzorzec MVC

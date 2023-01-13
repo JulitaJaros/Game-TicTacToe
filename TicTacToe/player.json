@@ -1,0 +1,15 @@
+{
+  "listPlayerRegister": {
+    "julita": {
+      "login": "julita",
+      "password": "julita",
+      "statistic": {
+        "numberOfRoundsWon": 0,
+        "numberOfRoundsLost": 0,
+        "numberOfRoundsTied": 0,
+        "numberOfPoints": 0
+      },
+      "figure": "X"
+    }
+  }
+}
